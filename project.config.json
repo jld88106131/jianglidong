@@ -11,7 +11,7 @@
 	"libVersion": "1.9.91",
 	"appid": "wx600fa698b3afd1ce",
 	"projectname": "myxiaochengxus",
-	"isGameTourist": false,
+	  "isGameTourist": false, 
 	"condition": {
 		"search": {
 			"current": -1,
