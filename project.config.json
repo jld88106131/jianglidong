@@ -1,4 +1,4 @@
-{
+{  
 	"description": "项目配置文件。",
 	"setting": {
 		"urlCheck": true,
@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.91",
 	"appid": "wx600fa698b3afd1ce",
-	"projectname": "xiaochengxus",
+	"projectname": "myxiaochengxus",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
